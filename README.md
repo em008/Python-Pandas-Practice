@@ -1,4 +1,4 @@
-# Python-Pandas-Demo
+# Python-Pandas
 
 [Climate data](https://res.cloudinary.com/dssciwyew/image/upload/v1607535611/ClimateData.png)
 * The Python Pandas library is used to import data from a csv file using the `read_csv()` function.
